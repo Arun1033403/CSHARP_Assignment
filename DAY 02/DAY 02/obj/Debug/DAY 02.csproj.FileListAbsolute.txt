@@ -1,0 +1,7 @@
+C:\Users\arunve\source\repos\DAY 02\DAY 02\bin\Debug\DAY 02.exe.config
+C:\Users\arunve\source\repos\DAY 02\DAY 02\bin\Debug\DAY 02.exe
+C:\Users\arunve\source\repos\DAY 02\DAY 02\bin\Debug\DAY 02.pdb
+C:\Users\arunve\source\repos\DAY 02\DAY 02\obj\Debug\DAY 02.csproj.AssemblyReference.cache
+C:\Users\arunve\source\repos\DAY 02\DAY 02\obj\Debug\DAY 02.csproj.CoreCompileInputs.cache
+C:\Users\arunve\source\repos\DAY 02\DAY 02\obj\Debug\DAY 02.exe
+C:\Users\arunve\source\repos\DAY 02\DAY 02\obj\Debug\DAY 02.pdb
