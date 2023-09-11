@@ -1,0 +1,14 @@
+D:\Assignment\Csharp_Test _01\Csharp_Test _01\obj\Debug\Csharp_Test _01.csproj.AssemblyReference.cache
+D:\Assignment\Csharp_Test _01\Csharp_Test _01\obj\Debug\Csharp_Test _01.csproj.CoreCompileInputs.cache
+D:\Assignment\Csharp_Test _01\Csharp_Test _01\bin\Debug\Csharp_Test _01.exe.config
+D:\Assignment\Csharp_Test _01\Csharp_Test _01\bin\Debug\Csharp_Test _01.exe
+D:\Assignment\Csharp_Test _01\Csharp_Test _01\bin\Debug\Csharp_Test _01.pdb
+D:\Assignment\Csharp_Test _01\Csharp_Test _01\obj\Debug\Csharp_Test _01.exe
+D:\Assignment\Csharp_Test _01\Csharp_Test _01\obj\Debug\Csharp_Test _01.pdb
+D:\Assignment\Csharp_Test_01\Csharp_Test _01\bin\Debug\Csharp_Test _01.exe.config
+D:\Assignment\Csharp_Test_01\Csharp_Test _01\bin\Debug\Csharp_Test _01.exe
+D:\Assignment\Csharp_Test_01\Csharp_Test _01\bin\Debug\Csharp_Test _01.pdb
+D:\Assignment\Csharp_Test_01\Csharp_Test _01\obj\Debug\Csharp_Test _01.csproj.AssemblyReference.cache
+D:\Assignment\Csharp_Test_01\Csharp_Test _01\obj\Debug\Csharp_Test _01.csproj.CoreCompileInputs.cache
+D:\Assignment\Csharp_Test_01\Csharp_Test _01\obj\Debug\Csharp_Test _01.exe
+D:\Assignment\Csharp_Test_01\Csharp_Test _01\obj\Debug\Csharp_Test _01.pdb
