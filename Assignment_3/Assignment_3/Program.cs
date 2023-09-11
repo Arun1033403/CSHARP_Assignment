@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace Assignment_3
 {
-    class strings
+    class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             //1.
             len();
@@ -64,7 +64,7 @@ namespace ConsoleApp1
 
             bool check = string.Equals(word1, word2, StringComparison.OrdinalIgnoreCase);
 
-            if(check)
+            if (check)
             {
                 Console.WriteLine("Words entered are equal");
 
