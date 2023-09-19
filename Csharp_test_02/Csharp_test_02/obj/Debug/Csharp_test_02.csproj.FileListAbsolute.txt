@@ -1,0 +1,7 @@
+D:\Assignment\Csharp_test_02\Csharp_test_02\bin\Debug\Csharp_test_02.exe.config
+D:\Assignment\Csharp_test_02\Csharp_test_02\bin\Debug\Csharp_test_02.exe
+D:\Assignment\Csharp_test_02\Csharp_test_02\bin\Debug\Csharp_test_02.pdb
+D:\Assignment\Csharp_test_02\Csharp_test_02\obj\Debug\Csharp_test_02.csproj.AssemblyReference.cache
+D:\Assignment\Csharp_test_02\Csharp_test_02\obj\Debug\Csharp_test_02.csproj.CoreCompileInputs.cache
+D:\Assignment\Csharp_test_02\Csharp_test_02\obj\Debug\Csharp_test_02.exe
+D:\Assignment\Csharp_test_02\Csharp_test_02\obj\Debug\Csharp_test_02.pdb
