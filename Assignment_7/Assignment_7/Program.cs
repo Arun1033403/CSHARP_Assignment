@@ -6,7 +6,6 @@ using System.Runtime.Remoting.Channels.Tcp;
 using System.Runtime.Remoting.Lifetime;
 namespace RemotingServer
 {
-    //service class
     public class Service : MarshalByRefObject
     {
         public string SayHello(string s)
@@ -21,7 +20,6 @@ namespace RemotingServer
             return maxnumber;
         }
 
-        //managing objects lifetime of either Singleton or ClientActivated objects
         public override object InitializeLifetimeService()
         {
             ILease lease = (ILease)base.InitializeLifetimeService();
@@ -36,24 +34,16 @@ namespace RemotingServer
 
     }
 
-    //server class
-    //it hosts the services by registering them
-    class Server
+    class Server       //server class
     {
         static void Main(string[] args)
         {
 
-
-
             TcpChannel tcpchannel = new TcpChannel(8089);
-            //register the channel
-            ChannelServices.RegisterChannel(tcpchannel, false);
+            ChannelServices.RegisterChannel(tcpchannel, false);  //register the channel
 
-
-            //configure all known services
-            RemotingConfiguration.RegisterWellKnownServiceType(typeof(Service), "OurFirstRemoteService",
-                WellKnownObjectMode.Singleton);
-            Console.WriteLine("Server Services started on tcp Port No: 8089...");
+            RemotingConfiguration.RegisterWellKnownServiceType(typeof(Service), "OurFirstRemoteService",WellKnownObjectMode.Singleton);
+            Console.WriteLine("Server Services started at the tcp Port No: 8089...");
             Console.WriteLine("Press any Key to Stop the Server Services..");
             Console.ReadLine();
         }
