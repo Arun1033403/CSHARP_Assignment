@@ -1,0 +1,6 @@
+D:\Assignment\Case_studies_123\case1\case1\bin\Debug\case1.exe.config
+D:\Assignment\Case_studies_123\case1\case1\bin\Debug\case1.exe
+D:\Assignment\Case_studies_123\case1\case1\bin\Debug\case1.pdb
+D:\Assignment\Case_studies_123\case1\case1\obj\Debug\Case_Study.csproj.CoreCompileInputs.cache
+D:\Assignment\Case_studies_123\case1\case1\obj\Debug\case1.exe
+D:\Assignment\Case_studies_123\case1\case1\obj\Debug\case1.pdb
