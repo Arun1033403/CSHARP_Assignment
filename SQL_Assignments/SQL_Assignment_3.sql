@@ -56,13 +56,13 @@ select ename,sal from EMP where sal > 1000
 --3. Display the names and salaries of all employees except JAMES.
 select ename,sal from EMP where not ename = 'JAMES'
 
---4. Find out the details of employees whose names begin with ‘S’.
+--4. Find out the details of employees whose names begin with â€˜Sâ€™.
 select ename from EMP where ename like 'S%'
 
---5. Find out the names of all employees that have ‘A’ anywhere in their name. 
+--5. Find out the names of all employees that have â€˜Aâ€™ anywhere in their name. 
 select ename from EMP where ename like '%A%' 
 
---6. Find out the names of all employees that have ‘L’ as their third character in their name. 
+--6. Find out the names of all employees that have â€˜Lâ€™ as their third character in their name. 
 select ename from EMP where ename like '__L%'
 
 --7. Compute daily salary of JONES.
@@ -75,7 +75,7 @@ select sum(sal) as TOTAL_MONTHLY_SALARY from Emp
 select avg(sal*12) as 'Average_Annual_Salary' from EMP
 
 --10. Select the name, job, salary, department number of all employees except SALESMAN from department number 30. 
-select ename, job, sal, deptno from EMP where not job = 'SALESMAN'  and not deptno = 30
+select ename, job, sal, deptno from EMP where not job = 'SALESMAN'  and deptno = 30
 
 --11. List unique departments of the EMP table.
 select distinct(e.deptno), d.dname from EMP
