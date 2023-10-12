@@ -1,6 +1,6 @@
-create database NORMAL_FORM
+create database NORMALIZATION_EXERCISE
 
-use NORMAL_FORM
+use NORMALIZATION_EXERCISE
 
 create table FirstNormalForm(
 clientno varchar(30),
