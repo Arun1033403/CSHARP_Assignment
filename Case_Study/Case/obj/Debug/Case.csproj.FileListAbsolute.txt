@@ -1,0 +1,7 @@
+D:\Assignment\Case\Case\obj\Debug\Case.csproj.AssemblyReference.cache
+D:\Assignment\Case\Case\obj\Debug\Case.csproj.CoreCompileInputs.cache
+D:\Assignment\Case\Case\bin\Debug\Case.exe.config
+D:\Assignment\Case\Case\bin\Debug\Case.exe
+D:\Assignment\Case\Case\bin\Debug\Case.pdb
+D:\Assignment\Case\Case\obj\Debug\Case.exe
+D:\Assignment\Case\Case\obj\Debug\Case.pdb
