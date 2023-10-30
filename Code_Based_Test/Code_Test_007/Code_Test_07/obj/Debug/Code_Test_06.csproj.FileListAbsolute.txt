@@ -1,0 +1,7 @@
+D:\Assignment\Code_Test_06\Code_Test_06\bin\Debug\Code_Test_06.exe.config
+D:\Assignment\Code_Test_06\Code_Test_06\bin\Debug\Code_Test_06.exe
+D:\Assignment\Code_Test_06\Code_Test_06\bin\Debug\Code_Test_06.pdb
+D:\Assignment\Code_Test_06\Code_Test_06\obj\Debug\Code_Test_06.csproj.AssemblyReference.cache
+D:\Assignment\Code_Test_06\Code_Test_06\obj\Debug\Code_Test_06.csproj.CoreCompileInputs.cache
+D:\Assignment\Code_Test_06\Code_Test_06\obj\Debug\Code_Test_06.exe
+D:\Assignment\Code_Test_06\Code_Test_06\obj\Debug\Code_Test_06.pdb
